@@ -189,4 +189,4 @@ You can type any command supported by the oscilloscope. Below are some useful on
 ---
 
 **Enjoy remote controlling your oscilloscope from your Mac!**  
-— *Siglent Remote Team*
+— *MK4001 Remote Team*
